@@ -1,5 +1,7 @@
 libname data "C:\SAS\Projects\Daiichi\GTFL Design";
 
+/* Comment */
+
 options mprint mlogic symbolgen;
 
 proc sql noprint;
